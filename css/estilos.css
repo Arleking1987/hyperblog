@@ -63,3 +63,12 @@ body
     padding: 1cm;
 
 }
+
+#footer
+{
+
+    background: #777;
+    color: white;
+    text-align: center;
+
+}
